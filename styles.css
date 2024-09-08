@@ -1,0 +1,401 @@
+body{
+     background-image: url('https://wallpapers.com/images/hd/iron-man-4k-drawing-6w8ckjoyptewx8tx.jpg');
+     background-size: cover;
+      background-repeat: no-repeat;
+     background-position: center;
+}
+
+div{
+      text-align:center;
+}
+h1{
+   color:rgb(100, 20, 20);
+   font-size:70px;
+   font-family:Impact;
+}
+header{
+        background-color: rgba(255, 255, 255, 0.25);
+        text-align: center; 
+            box-shadow: 0 0 15px black;
+}
+
+a{
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     text-decoration: none;
+     color: rgb(100, 20, 20);
+}
+
+.movie-poster {
+  width: 200px;
+  height: 440px;
+  border: 1px solid none;
+  margin-left: 0px;
+  border-radius: 10px;
+  display: inline-block;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.25);
+  
+}
+
+.poster-image {
+  width: 100%;
+  height: 60%;
+  object-fit: cover;
+}
+
+.poster-info {
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.25);
+}
+
+.movie-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.movie-tagline {
+  font-size: 16px;
+  color: #666;
+}
+
+.movie-details {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.movie-details li {
+  margin-bottom: 10px;
+}
+
+.movie-details strong {
+  font-weight: bold;
+  color:rgb(100, 20, 20);
+}
+.movie-poster1{
+  width: 200px;
+  height: 440px;
+  border: 1px solid none;
+  margin-left: 0px;
+  border-radius: 10px;
+  display: inline-block;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.25);
+  position:relative;
+  bottom: 440px;
+  left: 350px;
+}
+
+.poster-image {
+  width: 100%;
+  height: 60%;
+  object-fit: cover;
+}
+
+.poster-info1{
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.25);
+  display:inline-block;
+}
+
+.movie-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.movie-tagline {
+  font-size: 16px;
+  color: #666;
+}
+
+.movie-details {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.movie-details li {
+  margin-bottom: 10px;
+}
+
+.movie-details strong {
+  font-weight: bold;
+  color:rgb(100, 20, 20);
+}
+.movie-poster2 {
+  width: 200px;
+  height: 440px;
+  border: 1px solid none;
+  margin-left: 0px;
+  border-radius: 10px;
+  display: inline-block;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.25);
+   position:relative;
+  bottom: 880px;
+  left: 700px;
+  
+}
+
+.poster-image {
+  width: 100%;
+  height: 60%;
+  object-fit: cover;
+}
+
+.poster-info2 {
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.25);
+}
+
+.movie-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.movie-tagline {
+  font-size: 16px;
+  color: #666;
+}
+
+.movie-details {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.movie-details li {
+  margin-bottom: 10px;
+}
+
+.movie-details strong {
+  font-weight: bold;
+  color:rgb(100, 20, 20);
+}
+.movie-poster3{
+  width: 200px;
+  height: 440px;
+  border: 1px solid none;
+  border-radius: 10px;
+  display: inline-block;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.25);
+  position:relative;
+  bottom:820px;
+}
+
+.poster-image {
+  width: 100%;
+  height: 60%;
+  object-fit: cover;
+}
+
+.poster-info3{
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.25);
+  display:inline-block;
+}
+
+.movie-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.movie-tagline {
+  font-size: 16px;
+  color: #666;
+}
+
+.movie-details {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.movie-details li {
+  margin-bottom: 10px;
+}
+
+.movie-details strong {
+  font-weight: bold;
+  color:rgb(100, 20, 20);
+}
+.movie-poster4{
+  width: 200px;
+  height: 440px;
+  border: 1px solid none;
+  border-radius: 10px;
+  display: inline-block;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.25);
+  position:relative;
+  bottom:1260px;
+  left: 350px;
+}
+
+.poster-image {
+  width: 100%;
+  height: 60%;
+  object-fit: cover;
+}
+
+.poster-info3{
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.25);
+  display:inline-block;
+}
+
+.movie-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.movie-tagline {
+  font-size: 16px;
+  color: #666;
+}
+
+.movie-details {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.movie-details li {
+  margin-bottom: 10px;
+}
+
+.movie-details strong {
+  font-weight: bold;
+  color:rgb(100, 20, 20);
+}
+.movie-poster5{
+  width: 200px;
+  height: 440px;
+  border: 1px solid none;
+  border-radius: 10px;
+  display: inline-block;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 0.25);
+  position:relative;
+  bottom:1700px;
+  left: 700px;
+}
+
+.poster-image {
+  width: 100%;
+  height: 60%;
+  object-fit: cover;
+}
+
+.poster-info3{
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.25);
+  display:inline-block;
+}
+
+.movie-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.movie-tagline {
+  font-size: 16px;
+  color: #666;
+}
+
+.movie-details {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.movie-details li {
+  margin-bottom: 10px;
+}
+
+.movie-details strong {
+  font-weight: bold;
+  color:rgb(100, 20, 20);
+}
+
+
+/*form{
+      position: relative;
+      bottom: 35px;
+      left: 300px;
+      width: 350px;
+      height: 50px;
+      border: none;
+      border-radius: 5px;
+      background-color:  rgba(255, 255, 255, 0.25); 
+}
+form{
+       width: 65px;
+       height: 50px;
+       display: inline-block;
+        position: relative;
+      bottom: 35px;
+      left: 300px;
+      border: none;
+      border-radius: 5px;
+      background-color:  rgba(255, 255, 255, 0.25); 
+}*/
+.search-bar input[type="text"] {
+  width: 500px;
+  height: 50px;
+  padding: 10px;
+  border: none;
+  font-size: 16px;
+  position: relative;
+  bottom: 40px;
+  background-color:  rgba(255, 255, 255, 0.25);
+
+}
+
+.search-bar button[type="submit"] {
+  width: 60px;
+  height: 50px;
+  padding: 10px;
+  border: none;
+  background-color: #4CAF50;
+  color: #fff;
+  cursor: pointer;
+    position: relative;
+  bottom: 40px;
+  
+
+}
+
+.search-bar button[type="submit"]:hover {
+  background-color: #3e8e41;
+}
+footer{
+     width: 100%;
+     height: 100px;
+     text-align: center;
+     font-size: 50px;
+     color:rgb(100, 20, 20);
+       background-color:black;
+       border: none;
+}
+
+
